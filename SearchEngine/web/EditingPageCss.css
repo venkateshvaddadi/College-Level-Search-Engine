@@ -1,0 +1,63 @@
+
+
+root { 
+    display: block;
+}
+body
+{
+    background: whitesmoke;
+}
+textArea
+{
+color: green;
+background:white;
+}
+label
+{
+    color: brown;
+}
+h1{
+    color: brown;
+}
+.Edited
+{
+    color:green;
+    background: white;
+    width:700px;
+    height:100px;
+    text-align:justify;
+    vertical-align: central;
+    margin-left: -17em;
+   
+}
+.OutSide
+{
+   width:750px;
+   height:100px; 
+   background: white;
+ border-top-left-radius:7px;
+border-top-right-radius:7px;    
+border-bottom-left-radius:7px;
+border-bottom-right-radius:7px;
+       
+}
+select
+{
+    color:green;
+    background: white;
+   
+}
+input
+{
+    
+    color:green;
+    background:white;
+   
+}
+table
+{
+    color: green;
+    background: white;
+    border:aqua;
+}
+
